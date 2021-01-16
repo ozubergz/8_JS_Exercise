@@ -1,0 +1,18 @@
+{
+  "name": "8_js_exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1"
+  },
+  "dependencies": {
+    "sinon": "^9.2.3"
+  }
+}
